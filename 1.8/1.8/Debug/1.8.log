@@ -1,0 +1,5 @@
+﻿  Solver.cpp
+d:\programming\2курс\1семестр\my labs\1.8\1.8\solver.cpp(98): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\programming\2курс\1семестр\my labs\1.8\1.8\solver.cpp(100): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\programming\2курс\1семестр\my labs\1.8\1.8\solver.cpp(102): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  1.8.vcxproj -> D:\programming\2курс\1семестр\My labs\1.8\Debug\1.8.exe

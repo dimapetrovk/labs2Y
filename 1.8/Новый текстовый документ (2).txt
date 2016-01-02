@@ -1,0 +1,8 @@
+Enter extremum: max
+Enter function L(x)=1*x+1*c
+Enter array for 1 argument: 0 1 4
+Enter array for 2 argument: 0 1 3 5
+Enter limitation:
+-1*x+4*c=12
+4*x-1*c=12
+.
